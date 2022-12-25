@@ -53,7 +53,7 @@ I am seeking for an opportunity to pursue a PhD in Europe(maybe somewhere else) 
 
 
 # 🖥 Projects
-- *2022.10 - now*, [csl](https://www.ugent.be/ea/elis/en/research/csl) and [PRG](https://photonics.intec.ugent.be/), Master Thesis: ***Routing in a Photonic Integrated Circuit***
+- *2022.10 - now*, [csl](https://www.ugent.be/ea/elis/en/research/csl), [PRG](https://photonics.intec.ugent.be/) and [IDlab](https://www.ugent.be/ea/idlab/en), Master Thesis: ***Routing in a Photonic Integrated Circuit***
   - Focus on multi-destinations routing algorithm on hexagon programmable photonics circuits.
 - *2021.02 - 2021.06*, [CMST](https://www.cmst.be/), Hardware Project: ***Sensor Matrix*** supervised by Prof. Pieter Bauwens and Dr. Herbert de Smet.
 - *2021.01 - 2021.06*, [LS2N](https://www.ec-nantes.fr/english-version/research/laboratory-of-digital-sciences-of-nantes-ls2n), Bachelor thesis: ***Electromyography Signal Processing*** supervised by Dr. Konstantin Akhmadeev.
