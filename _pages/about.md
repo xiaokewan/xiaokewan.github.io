@@ -43,13 +43,14 @@ Xiaoke Wang is currently an MSc student in Electrical Engineering, Electrionics 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
-- *2017.09 - 2021.06*, Northwestern Polytechnical University, BSc in Microeletronics. 
-- *2020.09 - 2021.06*, Ecole Centrale de Nantes, Foudation Master(non-degree exchange) in Control Robotics & Signal.
-- *2021.09 - now*, Ghent University, MSc in Electrical Engineering, Electronics Circuits and System(ECS).  
+- *2017.09 - 2021.06*, ***Northwestern Polytechnical University***, BSc in Microeletronics. 
+- *2020.09 - 2021.06*, ***Ecole Centrale de Nantes***, Foudation Master(non-degree exchange) in Control Robotics & Signal.
+- *2021.09 - now*, ***Ghent University***, MSc in Electrical Engineering, Electronics Circuits and System(ECS).  
 
 
 # 🖥 Projects
-
+- *2022.10 - now*, [csl](https://www.ugent.be/ea/elis/en/research/csl) and [PRG](https://photonics.intec.ugent.be/), Master Thesis: Routing in a Photonic Integrated Circuit
+  - Focus on multi-destinations routing algorithm on hexagon programmable photonics circuits.
 - *2021.02 - 2021.06*, [CMST](https://www.cmst.be/), Hardware Project: **Sensor Matrix** supervised by Prof. Pieter Bauwens and Dr. Herbert de Smet.
 - *2021.01 - 2021.06*, [LS2N](https://www.ec-nantes.fr/english-version/research/laboratory-of-digital-sciences-of-nantes-ls2n), Bachelor thesis: **Electromyography Signal Processing** supervised by Dr. Konstantin Akhmadeev.
 - *2019.09 - 2020.12*, [Institute of Flexible Electronics(NPU)](https://ife.nwpu.edu.cn/English/News/News.htm), Research Intern supervised by [Prof. Qianbo Lu](https://scholar.google.com/citations?user=wmF6mgQAAAAJ&hl=en).
