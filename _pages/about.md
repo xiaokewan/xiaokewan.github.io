@@ -77,7 +77,7 @@ I am seeking for an opportunity to pursue a PhD in Europe(maybe somewhere else) 
   - Git, Latex, Office
  
 # 🎖 Awards
-- *2020.10*" Yajun Wu" Third Prize Scholarship.
+- *2020.10* "Yajun Wu" Third Prize Scholarship.
 - *2020.10* Excellent Students Scholarship of Northwestern Polytechnical University
 - *2019.10* Excellent Students Scholarship of School of Microelectronics, NPU 
 
