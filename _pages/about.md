@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaoke Wang was born in 2000. He is currently an MSc student in Electrical Engineering, Electrionics Circuits and Systems at [UGent](https://www.ugent.be/). He obtained his BSc in Microelectronics degree from Northwestern Polytechnical University in 2021. Now he is doning matser thesis with [Prof. Dirk Stroobandt](https://users.elis.ugent.be/~dstrooba/dstr_bio.html) and [Prof. Wim Bogaerts](https://photonics.intec.ugent.be/contact/people.asp?ID=2) with the topic of **Routing in a Photonic Integrated Circuit**.   
+Xiaoke Wang was born in 2000. He is currently a MSc student in Electrical Engineering at [UGent](https://www.ugent.be/). He obtained his BSc in Microelectronics degree from Northwestern Polytechnical University in 2021. Now he is doning matser thesis with [Prof. Dirk Stroobandt](https://users.elis.ugent.be/~dstrooba/dstr_bio.html) and [Prof. Wim Bogaerts](https://photonics.intec.ugent.be/contact/people.asp?ID=2) with the topic of **Routing in a Photonic Integrated Circuit**.   
 He is seeking an opportunity to pursue a PhD in Europe(maybe somewhere else) in digital electrical engineering field!
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
