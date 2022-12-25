@@ -86,4 +86,6 @@ I am seeking for an opportunity to pursue a PhD in Europe(maybe somewhere else) 
 
 
 # ⚽ Hobbies
-- Los Merengues(a fan of Real Madrid), Sports fan(basketball, football, formula 1)
+- Los Merengues(a fan of Real Madrid), Sports fan(basketball, football, formula 1).
+- Wanna own [Casey Neistat](https://www.youtube.com/watch?v=dSmsQraeCVM)'s studio.
+- Craving for new electronic devices.
