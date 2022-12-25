@@ -53,8 +53,8 @@ Xiaoke Wang is currently an MSc student in Electrical Engineering, Electrionics 
   - Introduction to Digital Systems Design with FPGAs. 
 - *2019.09 - 2020.12*, Institute of Flexible Electronics(NPU), Research Intern.
   - Evolutionary algorithms especially Particle Swarm Optimization on MEMES applications.
-- *2020.01 - 2020.06*, [LS2N](https://www.ec-nantes.fr/english-version/research/laboratory-of-digital-sciences-of-nantes-ls2n),Bachelor thesis: Electromyography Signal Processing supervised by Dr. Konstantin Akhmadeev.
-- *2021.02 - 2021.06*, [CMST](https://www.cmst.be/), Sensor Matrix hardware project supervised by Prof. Pieter Bauwens and Dr. Herbert de Smet.
+- *2020.01 - 2020.06*, [LS2N](https://www.ec-nantes.fr/english-version/research/laboratory-of-digital-sciences-of-nantes-ls2n),Bachelor thesis: **Electromyography Signal Processing** supervised by Dr. Konstantin Akhmadeev.
+- *2021.02 - 2021.06*, [CMST](https://www.cmst.be/), Hardware Project: **Sensor Matrix** supervised by Prof. Pieter Bauwens and Dr. Herbert de Smet.
 
 # 🎖 Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
