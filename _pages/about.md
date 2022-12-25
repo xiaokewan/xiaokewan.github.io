@@ -72,7 +72,7 @@ I am seeking for an opportunity to pursue a PhD in Europe(maybe somewhere else) 
 - Programming Language:
   - Python, C, Matlab, R, VHDL/Verilog
 - EE tools:
-  - Cadence, PCB Design(KiCAD), Highfrequecy Analysis(ADS), Robot Control(ROS),  Circuit Analysis(LTspice), Antenna Design(CST)
+  - IC Layout Design(Cadence Virtuoso), PCB Design(KiCAD), Highfrequecy Analysis(ADS), Robot Control(ROS),  Circuit Analysis(LTspice), Antenna Design(CST)
 - Others:
   - Git, Latex, Office
 - Languages:
