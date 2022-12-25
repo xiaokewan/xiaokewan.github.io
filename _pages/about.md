@@ -48,7 +48,9 @@ Xiaoke Wang is currently an MSc student in Electrical Engineering, Electrionics 
 
 
 # 🖥 Projects
-- *2019.06 - 2019.07*, The University of British Columbia, Summer School, Communication and Digital Systems.
+- *2019.06 - 2019.07*, The University of British Columbia, Summer School, Communication and Digital Systems package with two courses:
+-- Communication Systems: Technology Embedded in Daily life.
+-- Introduction to Digital Systems Design with FPGAs. 
 
 # 🎖 Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
