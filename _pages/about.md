@@ -63,6 +63,11 @@ Xiaoke Wang is currently an MSc student in Electrical Engineering, Electrionics 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
  
+# 🛠 Tools and Skills
+- Programming Language:
+  - Python, C, Matlab, R, VHDL/Verilog
+- EE tools:
+  - Cadence, PCB Design(KiCAD), Highfrequecy Analysis(ADS), Robot Control(ROS),  Circuit Analysis(LTspice), Antenna Design(CST)
  
 # 🎖 Awards
 - *2020.10*" Yajun Wu" Third Prize Scholarship.
