@@ -79,3 +79,7 @@ Xiaoke Wang is currently an MSc student in Electrical Engineering, Electrionics 
 
 # 💻 Internships
 - *2020.06 - 2020.08*, Institute of Electronics, Chinese Academy of Sciences, Server energy consumption management.
+
+
+# ⚽ Hobbies
+- Los Merengues(a fan of Real Madrid), Sports fan(basketball, football, formula 1)
