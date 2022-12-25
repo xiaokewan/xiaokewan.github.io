@@ -44,9 +44,9 @@ He is seeking an opportunity to pursue a PhD in Europe(maybe somewhere else) in 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
-- *2017.09 - 2021.06*, ***Northwestern Polytechnical University***, BSc in Microeletronics. 
-- *2020.09 - 2021.06*, ***Ecole Centrale de Nantes***, Foudation Master(non-degree exchange) in Control Robotics & Signal.
 - *2021.09 - now*, ***Ghent University***, MSc in Electrical Engineering, Electronics Circuits and System(ECS).  
+- *2020.09 - 2021.06*, ***Ecole Centrale de Nantes***, Foudation Master(non-degree exchange) in Control Robotics & Signal.
+- *2017.09 - 2021.06*, ***Northwestern Polytechnical University***, BSc in Microeletronics. 
 
 
 # 🖥 Projects
