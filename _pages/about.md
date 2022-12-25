@@ -43,26 +43,31 @@ Xiaoke Wang is currently an MSc student in Electrical Engineering, Electrionics 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
-- *2017.09 - 2021.06 (now)*, Northwestern Polytechnical University, BSc in Microeletronics. 
+- *2017.09 - 2021.06*, Northwestern Polytechnical University, BSc in Microeletronics. 
+- *2020.09 - 2021.06*, Ecole Centrale de Nantes, Foudation Master(non-degree exchange) in Control Robotics & Signal.
 - *2021.09 - now*, Ghent University, MSc in Electrical Engineering, Electronics Circuits and System(ECS).  
 
 
 # 🖥 Projects
-- *2019.06 - 2019.07*, The University of British Columbia, Summer School, Communication and Digital Systems package with two courses:
-  - Communication Systems: Technology Embedded in Daily life.
-  - Introduction to Digital Systems Design with FPGAs. 
+
+- *2021.02 - 2021.06*, [CMST](https://www.cmst.be/), Hardware Project: **Sensor Matrix** supervised by Prof. Pieter Bauwens and Dr. Herbert de Smet.
 - *2019.09 - 2020.12*, Institute of Flexible Electronics(NPU), Research Intern supervised by [Prof. Qianbo Lu](https://scholar.google.com/citations?user=wmF6mgQAAAAJ&hl=en).
   - Evolutionary algorithms especially Particle Swarm Optimization on MEMES applications.
 - *2020.01 - 2020.06*, [LS2N](https://www.ec-nantes.fr/english-version/research/laboratory-of-digital-sciences-of-nantes-ls2n), Bachelor thesis: **Electromyography Signal Processing** supervised by Dr. Konstantin Akhmadeev.
-- *2021.02 - 2021.06*, [CMST](https://www.cmst.be/), Hardware Project: **Sensor Matrix** supervised by Prof. Pieter Bauwens and Dr. Herbert de Smet.
-
-# 🎖 Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2019.07*, The University of British Columbia, Summer School, Communication and Digital Systems package with two courses:
+  - Communication Systems: Technology Embedded in Daily life.
+  - Introduction to Digital Systems Design with FPGAs. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
+ 
+ 
+# 🎖 Awards
+- *2020.10*" Yajun Wu" Third Prize Scholarship.
+- *2020.10* Excellent Students Scholarship of Northwestern Polytechnical University
+- *2019.10* Excellent Students Scholarship of School of Microelectronics, NPU 
+
 # 💻 Internships
 - *2020.06 - 2020.08*, Institute of Electronics, Chinese Academy of Sciences, Server energy consumption management.
