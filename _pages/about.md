@@ -47,6 +47,9 @@ Xiaoke Wang is currently an MSc student in Electrical Engineering, Electrionics 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
+# 🖥 Projects
+- *2019.06 - 2019.07*, The University of British Columbia, Summer School, Communication and Digital Systems.
+
 # 🎖 Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
