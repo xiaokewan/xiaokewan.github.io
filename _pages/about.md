@@ -75,6 +75,8 @@ I am seeking for an opportunity to pursue a PhD in Europe(maybe somewhere else) 
   - Cadence, PCB Design(KiCAD), Highfrequecy Analysis(ADS), Robot Control(ROS),  Circuit Analysis(LTspice), Antenna Design(CST)
 - Others:
   - Git, Latex, Office
+- Languages:
+  - Mandarin, English, French(un peu)
  
 # 🎖 Awards
 - *2020.10* "Yajun Wu" Third Prize Scholarship.
