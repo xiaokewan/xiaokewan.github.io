@@ -22,4 +22,4 @@ main:
     url: "/#-internships"
     
   - title: "Resume"
-    url: "github.com/xiaokewan/xiaokewan.github.io/raw/main/Resume.pdf"
+    url: "/assets/Resume.pdf"
