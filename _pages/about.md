@@ -48,7 +48,7 @@ I am seeking for an opportunity to pursue a PhD in Europe(maybe somewhere else) 
 
 # 📖 Educations
 - *2021.09 - now*, ***Ghent University***, MSc in Electrical Engineering, Electronics Circuits and System(ECS).  
-- *2020.09 - 2021.06*, ***Ecole Centrale de Nantes***, Foudation Master(non-degree exchange) in Control Robotics & Signal.
+- *2020.09 - 2021.06*, ***Ecole Centrale de Nantes***, Foundation Master(non-degree exchange) in Control Robotics & Signal.
 - *2017.09 - 2021.06*, ***Northwestern Polytechnical University***, BSc in Microeletronics. 
 
 
