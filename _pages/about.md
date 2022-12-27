@@ -74,7 +74,7 @@ I am seeking for an opportunity to pursue a PhD in Europe(maybe somewhere else) 
 - EE tools:
   - IC Layout Design(Cadence Virtuoso), PCB Design(KiCAD), Highfrequecy Analysis(ADS), Robot Control(ROS),  Circuit Analysis(LTspice), Antenna Design(CST), Digital Circuits Disign(Vivado/Quartus)
 - Others:
-  - Git, Latex, Office
+  - Git, Latex, Office, Bash/Shell
 - Languages:
   - Mandarin, English, French(un peu)
  
@@ -91,3 +91,4 @@ I am seeking for an opportunity to pursue a PhD in Europe(maybe somewhere else) 
 - Los Merengues(a fan of Real Madrid), Sports fan(basketball, football, formula 1).
 - Wanna own [Casey Neistat](https://www.youtube.com/watch?v=dSmsQraeCVM)'s studio.
 - Craving for new electronic devices.
+- Cooking oriental food.
