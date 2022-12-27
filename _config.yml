@@ -12,7 +12,7 @@ repository               : "xiaokewan/xiaokewan.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  UA-252787491-1 
+google_analytics      :  UA-252787491-1 
 # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
