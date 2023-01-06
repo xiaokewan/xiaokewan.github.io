@@ -70,6 +70,8 @@ Xiaoke Wang was born in 2000. He is currently a MSc student in Electrical Engine
 - Wanna own [Casey Neistat](https://www.youtube.com/watch?v=dSmsQraeCVM)'s studio.
 - Craving for new electronic devices.
 - Cooking oriental food.
-
+  
+  
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=u6zqv4eU5KFuACwKCtJhr-8yI2BKSoJIInFFA-urL9I"></script>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv">Pageviews:<span id="busuanzi_value_site_pv"></span>times</span>
