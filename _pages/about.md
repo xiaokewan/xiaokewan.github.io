@@ -37,7 +37,7 @@ Xiaoke Wang was born in 2000. He is currently a MSc student in Electrical Engine
 - *2021.01 - 2021.06*, [LS2N](https://www.ec-nantes.fr/english-version/research/laboratory-of-digital-sciences-of-nantes-ls2n), Bachelor thesis: [***Electromyography Signal Processing***](/assets/EMG.pdf) supervised by Dr. Konstantin Akhmadeev.
 - *2019.09 - 2020.12*, [Institute of Flexible Electronics(NPU)](https://ife.nwpu.edu.cn/English/News/News.htm), Research Intern supervised by [Prof. Qianbo Lu](https://scholar.google.com/citations?user=wmF6mgQAAAAJ&hl=en).
   - Evolutionary algorithms especially Particle Swarm Optimization on MEMES applications.
-  - ***Multiple Sub-swarm Collaborative Particle Swarm Optimization with Adaptive Fusion Mechanism***, submitted to IEEE TEVC (under review)
+  - ***Multiple Sub-swarm Collaborative Particle Swarm Optimization with Adaptive Fusion Mechanism***, submitted to IEEE TEVC in Jan 2023 (under review)
 
 - *2019.06 - 2019.07*, The University of British Columbia, Summer School, Communication and Digital Systems package with two courses:
   - Communication Systems: Technology Embedded in Daily life.
