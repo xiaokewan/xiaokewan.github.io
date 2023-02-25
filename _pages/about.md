@@ -69,7 +69,7 @@ Xiaoke Wang was born in 2000. He is currently a MSc student in Electrical Engine
 
 # ⚽ Hobbies
 - Los Merengues(a fan of Real Madrid), Sports fan(basketball, football, formula 1).
-- Wanna own [Casey Neistat](https://youtu.be/dSmsQraeCVM?t=606)'s studio.
+- Wanna own [Casey Neistat](https://youtu.be/dSmsQraeCVM?t=395)'s studio.
 - Craving for new electronic devices.
 - Cooking oriental food.
   
