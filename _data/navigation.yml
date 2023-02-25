@@ -22,4 +22,4 @@ main:
     url: "/#-internships"
     
   - title: "Resume"
-    url: "/_pages/cv.md"
+    url: "/cv/"
