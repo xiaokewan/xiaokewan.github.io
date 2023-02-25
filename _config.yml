@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiaoke Wang"
-  avatar           : "images/80871199_528599034424842_4620321739645178976_n.jpg"
+  avatar           : "/images/80871199_528599034424842_4620321739645178976_n.jpg"
   bio              : "Ghent University"
   location         : "Ghent, Belgium"
   employer         :
