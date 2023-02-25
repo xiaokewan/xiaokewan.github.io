@@ -1,2 +1,9 @@
- <iframe width="500" height="600" [src]="https://xiaokewan.github.io//assets/Xiaoke_Wang_Resume.pdf" type="application/pdf"></iframe>
-    <embed [src]="staticUrl+docUrl" type="application/pdf" width="100%" height="550px" />
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+<embed src="../assets/Xiaoke_Wang_Resume.pdf" width="800px" height="2100px" />
