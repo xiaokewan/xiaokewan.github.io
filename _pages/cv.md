@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /Resume
 ---
 <embed src="../assets/Xiaoke_Wang_Resume.pdf" width="800px" height="2100px" />
