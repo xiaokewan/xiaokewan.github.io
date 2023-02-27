@@ -34,8 +34,8 @@ Xiaoke Wang was born in 2000. He is currently a MSc student in Electrical Engine
 - *2022.10 - now*, [csl](https://www.ugent.be/ea/elis/en/research/csl), [PRG](https://photonics.intec.ugent.be/) and [IDlab](https://www.ugent.be/ea/idlab/en) at UGent, Master Thesis: ***Routing in a Photonic Integrated Circuit***
   - Focus on multi-destinations routing algorithm on hexagon programmable photonics circuits.
  
-- *2021.02 - 2021.06*, [CMST](https://www.cmst.be/), at UGent Hardware Project: [***Sensor Matrix***](/assets/HOP06-Final Presentation.pdf) supervised by Prof. Pieter Bauwens and Dr. Herbert de Smet.
-  - Auto balancing bridge enable process sensor matrix signals faster by FFT. Circuits simulation, PCB design, and microprocessor programming involved. 
+- *2022.02 - 2022.06*, [CMST](https://www.cmst.be/), at UGent Hardware Project: [***Sensor Matrix***](/assets/HOP06-Final Presentation.pdf) supervised by Prof. Pieter Bauwens and Dr. Herbert de Smet.
+  - Auto balancing bridge enable process sensor matrix signals faster by FFT. Circuits simulation, PCB design, and microprocessor programming are involved. 
 - *2021.01 - 2021.06*, [LS2N](https://www.ec-nantes.fr/english-version/research/laboratory-of-digital-sciences-of-nantes-ls2n) at ECN, Bachelor thesis: [***Electromyography Signal Processing***](/assets/EMG.pdf) supervised by Dr. Konstantin Akhmadeev.
 - *2019.09 - 2020.12*, [Institute of Flexible Electronics](https://ife.nwpu.edu.cn/English/News/News.htm) at NPU, Research Intern supervised by [Prof. Qianbo Lu](https://scholar.google.com/citations?user=wmF6mgQAAAAJ&hl=en).
   - Evolutionary algorithms especially Particle Swarm Optimization on MEMES applications.
