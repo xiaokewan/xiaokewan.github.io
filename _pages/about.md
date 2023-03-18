@@ -27,7 +27,7 @@ Xiaoke Wang was born in 2000. He is currently a MSc student in Electrical Engine
 # 🖥 Experiences
 - *2022.10 - now*, <span style="color:blue">Master Thesis: ***Routing in a Photonic Integrated Circuit*** 
   
-  [csl](https://www.ugent.be/ea/elis/en/research/csl), [PRG](https://photonics.intec.ugent.be/) and [IDlab](https://www.ugent.be/ea/idlab/en) at UGent
+  [csl](https://www.ugent.be/ea/elis/en/csl/home), [PRG](https://photonics.intec.ugent.be/) at UGent
   - Focus on multi-destinations routing algorithm on hexagon programmable photonics circuits.
    
 - *2022.02 - 2022.06*, <span style="color:blue">Hardware Project: [***Sensor Matrix***](/assets/HOP06-Final Presentation.pdf)
