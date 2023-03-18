@@ -7,11 +7,38 @@ redirect_from:
   - 
 ---
 
-| | |
-|---|---|
-| *2021.09 - now*, ***Ghent University***<br> <ul><li> MSc in Electrical Engineering, Electronics Circuits and System(ECS) </li> </ul> | <img src="https://styleguide.ugent.be/files/uploads/logo_UGent_EN_RGB_2400_kleur_witbg.png" width="130"> |
-| *2020.09 - 2021.06*, ***Ecole Centrale de Nantes***<br> <ul><li> Foundation Master(non-degree exchange) in Signal, Control & Robotics </li> </ul> | <img src="https://upload.wikimedia.org/wikipedia/fr/c/c0/Logo_ECN.svg" width="150"> |
-| *2017.09 - 2021.06*, ***Northwestern Polytechnical University***<br> <ul><li> BSc in Microeletronics </li> </ul> | <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/320px-Northwestern_Polytechnical_University_badge.svg.png?1679150883585" width="70"> |
+<html>
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+td {
+  vertical-align: top;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <td>*2021.09 - now*, ***Ghent University***<br><ul><li>MSc in Electrical Engineering, Electronics Circuits and System(ECS)</li></ul></td>
+    <td><img src="https://styleguide.ugent.be/files/uploads/logo_UGent_EN_RGB_2400_kleur_witbg.png" width="130"></td>
+  </tr>
+  <tr>
+    <td>*2020.09 - 2021.06*, ***Ecole Centrale de Nantes***<br><ul><li>Foundation Master(non-degree exchange) in Signal, Control & Robotics</li></ul></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/fr/c/c0/Logo_ECN.svg" width="150"></td>
+  </tr>
+  <tr>
+    <td>*2017.09 - 2021.06*, ***Northwestern Polytechnical University***<br><ul><li>BSc in Microeletronics</li></ul></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/zh/thumb/a/ac/Northwestern_Polytechnical_University_badge.svg/320px-Northwestern_Polytechnical_University_badge.svg.png?1679150883585" width="70"></td>
+  </tr>
+</table>
+
+</body>
+</html>
 
 
 
