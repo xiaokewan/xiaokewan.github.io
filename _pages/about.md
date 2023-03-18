@@ -45,7 +45,7 @@ Xiaoke Wang was born in 2000. He is currently a MSc student in Electrical Engine
 - *2019.09 - 2020.12*, <span style="color:blue">Research Assistant 
   [Institute of Flexible Electronics](https://ife.nwpu.edu.cn/English/News/News.htm) at NPU, supervised by [Prof. Qianbo Lu](https://scholar.google.com/citations?user=wmF6mgQAAAAJ&hl=en).
   - Evolutionary algorithms especially Particle Swarm Optimization on MEMES applications.
-  - ***Multiple Sub-swarm Collaborative Particle Swarm Optimization with Adaptive Fusion Mechanism***, submitted to IEEE TEVC in Jan 2023 (under review), proposed a multiple sub-swarm collaborative PSO with an adaptive fusion mechanism (MSCPSO-AF) that blends the population partitioning, collaboration of sub-swarms, and adaptive fusion. Perform better than conventional swarm algorithms in accuracy, robustness, and convergence speed.
+  - ***Multiple Sub-swarm Collaborative Particle Swarm Optimization with Adaptive Fusion Mechanism***, (under review), proposed a multiple sub-swarm collaborative PSO with an adaptive fusion mechanism (MSCPSO-AF) that blends the population partitioning, collaboration of sub-swarms, and adaptive fusion. Perform better than conventional swarm algorithms in accuracy, robustness, and convergence speed.
 
 - *2019.06 - 2019.07*, The University of British Columbia (UBC), Summer School, Communication and Digital Systems package with two courses:
   - Communication Systems: Technology Embedded in Daily life.
