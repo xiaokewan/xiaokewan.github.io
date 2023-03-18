@@ -10,7 +10,7 @@ redirect_from:
 
 # 📝 Research 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Route.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='assets/Route.png' alt="sym" width="100%"></div></div>
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='/assets/Route.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
