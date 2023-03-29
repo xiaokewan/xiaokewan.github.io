@@ -28,7 +28,7 @@ td:nth-child(2) {
 <table>
   <tr>
     <td><strong><em>2021.09 - now</em></strong>, <strong>Ghent University</strong><br><ul><li>MSc in Electrical Engineering, Electronics Circuits and System(ECS)</li></ul></td>
-    <td><img src="https://ww1.freelogovectors.net/wp-content/uploads/2020/03/ghent-university-logo-universiteit-gent.png?lossy=1&w=2560&ssl=1" width="120"></td>
+    <td><img src="https://ww1.freelogovectors.net/wp-content/uploads/2020/03/ghent-university-logo-universiteit-gent.png?lossy=1&w=2560&ssl=1" width="100"></td>
   </tr>
   <tr>
     <td><strong><em>2020.09 - 2021.06</em></strong>, <strong>Ecole Centrale de Nantes</strong><br><ul><li>Foundation Master(non-degree exchange) in Signal, Control & Robotics</li></ul></td>
