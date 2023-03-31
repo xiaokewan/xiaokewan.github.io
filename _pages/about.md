@@ -19,10 +19,10 @@ redirect_from:
 
 Xiaoke Wang was born in 2000. He is currently a MSc student in Electrical Engineering at [UGent](https://www.ugent.be/). He obtained his BSc in Microelectronics degree from Northwestern Polytechnical University in 2021. Now he is doning matser thesis with [Prof. Dirk Stroobandt](https://users.elis.ugent.be/~dstrooba/dstr_bio.html) and [Prof. Wim Bogaerts](https://photonics.intec.ugent.be/contact/people.asp?ID=2) on the topic of **Routing in a Photonic Integrated Circuit**.   
   
-  
+<!--   
 <span style="color:blue">I am seeking for an opportunity to pursue a PhD in Europe(maybe somewhere else) in digital electrical engineering field!
   
-
+ -->
 
 # 🖥 Experiences
 - *2022.10 - now*, <span style="color:blue">Master Thesis: ***Routing in a Photonic Integrated Circuit*** 
