@@ -1,5 +1,5 @@
 ---
-format: single
+layout: single
 permalink: /
 title: ""
 excerpt: ""
