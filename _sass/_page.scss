@@ -410,3 +410,11 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.centered-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - var(--nav-height));
+}
+
