@@ -1,4 +1,5 @@
 ---
+layout: centered
 permalink: /
 title: ""
 excerpt: ""
