@@ -1,5 +1,5 @@
- ---
-permalink: /#about-me
+---
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <!--   
 <span style="color:blue">I am seeking for an opportunity to pursue a PhD in Europe(maybe somewhere else) in digital electrical engineering field!
   
