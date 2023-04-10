@@ -2,8 +2,16 @@
 layout: single
 ---
 
-<div class="centered-content">
-  {{ content }}
+<div class="wrapper">
+  <div class="grid__wrapper">
+    {% include author-profile.html %}
+    
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <div class="archive__item-teaser" itemprop="description" style="display: flex; flex-direction: column; justify-content: center; min-height: calc(100vh - var(--nav-height));">
+        {{ content }}
+      </div>
+    </article>
+  </div>
 </div>
 
-{% include scripts.html %}
+{% include default.html %}
