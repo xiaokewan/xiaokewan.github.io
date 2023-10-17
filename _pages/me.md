@@ -7,16 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!--   
-<span style="color:blue">I am seeking for an opportunity to pursue a PhD in Europe(maybe somewhere else) in digital electrical engineering field!
-  
- -->
+
 
 # 🖥 Experiences
-- *2022.10 - now*, <span style="color:blue">Master Thesis: ***Routing in a Photonic Integrated Circuit*** 
+- *2022.10 - 2023.06*, <span style="color:blue">Master Thesis: ***Routing in a Photonic Integrated Circuit*** 
   
   [csl](https://www.ugent.be/ea/elis/en/csl/home), [PRG](https://photonics.intec.ugent.be/) at UGent
-  - Focus on multi-destinations routing algorithm on hexagon programmable photonics circuits.
+  - Focus on multi-destination routing algorithm on hexagon programmable photonics circuits.
    
 - *2022.02 - 2022.06*, <span style="color:blue">Hardware Project: [***Sensor Matrix***](/assets/HOP06-Final Presentation.pdf)
   
