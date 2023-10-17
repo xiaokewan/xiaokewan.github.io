@@ -32,7 +32,7 @@ td:nth-child(2) {
   </tr>
   <tr>
     <td><strong><em>2020.09 - 2021.06</em></strong>, <strong>Ecole Centrale de Nantes</strong><br><ul><li>Foundation Master(non-degree exchange) in Signal, Control & Robotics</li></ul></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/fr/c/c0/Logo_ECN.svg" width="130"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/fr/c/c0/Logo_ECN.svg" width="100"></td>
   </tr>
   <tr>
     <td><strong><em>2017.09 - 2021.06</em></strong>, <strong>Northwestern Polytechnical University</strong><br><ul><li>BSc in Microeletronics</li></ul></td>
