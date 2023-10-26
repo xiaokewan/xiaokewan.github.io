@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Xiaoke Wang was born in 2000. I am currently a Ph.D. student in the UGent Hardware Embedded System (HES) team of the CSL lab  supervised by Prof. Dirk Stroobandt. I obtained my MSc in EE from Ghent University in 2023 and my BSc in Microelectronics degree from Northwestern Polytechnical University in 2021. 
+I am currently enrolled as a Ph.D. student in the UGent Hardware Embedded System (HES) team of the CSL lab  supervised by Prof. Dirk Stroobandt. I obtained my MSc in EE from Ghent University in 2023 and my BSc in Microelectronics degree from Northwestern Polytechnical University in 2021. 
 <!--Now I just finished my matser thesis with [Prof. Dirk Stroobandt](https://users.elis.ugent.be/~dstrooba/dstr_bio.html) and [Prof. Wim Bogaerts](https://photonics.intec.ugent.be/contact/people.asp?ID=2) on the topic of **Routing Algorithms for Programmable Photonic Circuits**.    -->
   
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=202&t=tt&d=u6zqv4eU5KFuACwKCtJhr-8yI2BKSoJIInFFA-urL9I&co=6d7a84&cmo=c1a7bc&cmn=8a89e2'></script>
