@@ -48,19 +48,21 @@ redirect_from:
   - Git, Latex, Office, Bash/Shell
 - Languages:
   - Mandarin, English, French(un peu)
- 
+
+<!--
 # 🎖 Awards
 - *2020.10* "Yajun Wu" Third Prize Scholarship.
 - *2020.10* Excellent Students Scholarship of Northwestern Polytechnical University
 - *2019.10* Excellent Students Scholarship of School of Microelectronics, NPU 
+ -->
 
 # 💻 Internships
 - *2020.06 - 2020.08*, Institute of Electronics, Chinese Academy of Sciences, Server energy consumption management.
 
-
+<!--
 # ⚽ Hobbies
 - Los Merengues(a fan of Real Madrid), Sports fan(basketball, football, formula 1).
 - Wanna own [Casey Neistat](https://youtu.be/dSmsQraeCVM?t=395)'s studio.
 - Craving for new electronic devices.
 - Cooking oriental food.
-  
+   -->
