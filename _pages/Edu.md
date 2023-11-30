@@ -27,6 +27,10 @@ td:nth-child(2) {
 
 <table>
   <tr>
+    <td><strong><em>2023.10 - present</em></strong>, <strong>Ghent University</strong><br><ul><li>Ph.D. in Electrical Engineering</li></ul></td>
+    <td><img src="https://styleguide.ugent.be/files/uploads/logo_UGent_NL_RGB_2400_kleur_witbg.png" width="100"></td>
+  </tr>
+  <tr>
     <td><strong><em>2021.09 - 2023.09</em></strong>, <strong>Ghent University</strong><br><ul><li>MSc in Electrical Engineering, Electronics Circuits and System(ECS)</li></ul></td>
     <td><img src="https://styleguide.ugent.be/files/uploads/logo_UGent_NL_RGB_2400_kleur_witbg.png" width="100"></td>
   </tr>
