@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiaoke Wang"
-  avatar           : "/images/profile_ai_draw.png"
+  avatar           : "/images/profile_ai_draw - square.png"
   bio              : "Ghent University"
   location         : "Ghent, Belgium"
   employer         :
@@ -46,7 +46,7 @@ author:
   lastfm           :
   linkedin         : "xiaoke-wang"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-8435-3478"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
