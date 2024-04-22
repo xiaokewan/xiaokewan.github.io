@@ -1,10 +1,10 @@
----
-permalink: /about-me/
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
----
+#---
+#permalink: /about-me/
+#title: ""
+#excerpt: ""
+#author_profile: true
+#redirect_from: 
+#---
 
 
 # 🖥 Experiences
