@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# 📝 Research 
+# 📝 Journals
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/assets/JLT-multicasting.png' alt="Research" width="100%"></div></div> <div class='paper-box-text' markdown="1">
 **[A Novel Connection-based Multicasting Router for Programmable Photonic Circuits](https://ieeexplore.ieee.org/document/10759666)**  
@@ -18,3 +18,7 @@ Authors: Xiaoke Wang, Ferre Vanden Kerchove, Raveena Raikar, Mario Pickavet, Wim
 
 
 </div> </div>
+
+# 📜 Conferences/Workshops
+
+
