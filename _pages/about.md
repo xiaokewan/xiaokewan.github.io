@@ -21,7 +21,7 @@ I am presently pursuing my Ph.D. studies within the UGent Hardware Embedded Syst
 <!--Now I just finished my matser thesis with [Prof. Dirk Stroobandt](https://users.elis.ugent.be/~dstrooba/dstr_bio.html) and [Prof. Wim Bogaerts](https://photonics.intec.ugent.be/contact/people.asp?ID=2) on the topic of **Routing Algorithms for Programmable Photonic Circuits**.    -->
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 My first journal paper got accepted bt IEEE/OSA Journal of Lightwave Technology.
+- *2024.11*: &nbsp;🎉🎉 My first journal paper got accepted by IEEE/OSA Journal of Lightwave Technology.
 - *2024.10*: &nbsp;🎉🎉 SLIP2024 workshop paper and presentation titled "The Influence of Interconnection Complexity on the FPGA CAD Flow".
 
 
