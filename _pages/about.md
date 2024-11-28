@@ -22,7 +22,7 @@ I am presently pursuing my Ph.D. studies within the UGent Hardware Embedded Syst
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 My first journal paper got accepted by IEEE/OSA Journal of Lightwave Technology.
-- *2024.10*: &nbsp;🎉🎉 SLIP2024 workshop paper and presentation titled "The Influence of Interconnection Complexity on the FPGA CAD Flow".
+- *2024.10*: &nbsp;🎉🎉 [SLIP2024](http://www.sliponline.org/) workshop paper and presentation titled "The Influence of Interconnection Complexity on the FPGA CAD Flow".
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=202&t=tt&d=u6zqv4eU5KFuACwKCtJhr-8yI2BKSoJIInFFA-urL9I&co=6d7a84&cmo=c1a7bc&cmn=8a89e2'></script>
