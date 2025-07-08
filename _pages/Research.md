@@ -9,12 +9,21 @@ redirect_from:
 
 
 # 📝 Journals
+
+## 2025
+<div class='paper-box'><div class='paper-box-image'><div><img src='/assets/aelpso.png' alt="Research" width="80%"></div></div> <div class='paper-box-text' markdown="1">
+**[Adaptive elite learning particle swarm optimization algorithm with complementary sub-strategies for multimodal problems](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4510-2)**  
+***SCIENCE CHINA Information Sciences***  
+<!-- DOI: 10.1007/s11432-024-4510-2 -->
+Authors: Qianbo Lu, Jiaxin Sun, Zhenshan Wang, Chao Wang, *Xiaoke Wang*, Xiaoxu Wang, Shuang Wu, Xuyang Zhou, Qixuan Zhu, Jinshuai Sun, Zhihui Zhan, Wei Huang
+</div> </div>
+
 ## 2024
 <div class='paper-box'><div class='paper-box-image'><div><img src='/assets/JLT-multicasting.png' alt="Research" width="80%"></div></div> <div class='paper-box-text' markdown="1">
 **[A Novel Connection-based Multicasting Router for Programmable Photonic Circuits](https://ieeexplore.ieee.org/document/10759666)**  
 ***Journal of Lightwave Technology***  
 <!-- DOI: 10.1109/JLT.2024.3504279 -->
-Authors: Xiaoke Wang, Ferre Vanden Kerchove, Raveena Raikar, Mario Pickavet, Wim Bogaerts, Dirk Stroobandt
+Authors: *Xiaoke Wang*, Ferre Vanden Kerchove, Raveena Raikar, Mario Pickavet, Wim Bogaerts, Dirk Stroobandt
 
 
 </div> </div>
